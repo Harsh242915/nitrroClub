@@ -1,0 +1,6 @@
+{
+  "name": "Nitrro Wellness & Fitness Hub",
+  "description": "Mumbai's premier luxury fitness club and wellness sanctuary founded by Prabodh Davkhare, with flagship clubs in Breach Candy, Powai, and Thane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
